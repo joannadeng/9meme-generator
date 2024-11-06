@@ -63,17 +63,21 @@ input {
 
  .bottomText {
     position: absolute;
+    bottom:10px;
+    left:10%;
+    right:10%;
     word-wrap: break-word;
     text-transform: uppercase;
-    bottom:10px;
     color: lightblue;
 }
 
  .topText {
     position: absolute;
+    top:5px;
+    left:10%;
+    right:10%;
     word-wrap: break-word;
     text-transform: uppercase;
-    top:5px;
     color: lightblue;
     
 }
